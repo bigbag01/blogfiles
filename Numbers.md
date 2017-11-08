@@ -4,6 +4,10 @@ layout: post
 
 date: 2017-03-20 12:59:58
 
+categories: java基础
+
+tags: [基本数据类型]
+
 ---
 
 ### int, long 

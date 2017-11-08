@@ -4,7 +4,9 @@ layout: post
 
 date: 2017-03-20 12:57:50
 
-tags: [java web, struts2]
+categories: java web
+
+tags: [jsp, struts2]
 
 ---
 

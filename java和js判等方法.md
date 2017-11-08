@@ -4,7 +4,9 @@ layout: post
 
 date: 2017-03-24 16:30:00
 
-tags: [java基础, javascript]
+categories: java基础
+
+tags: ["判等", js]
 
 ---
 
@@ -17,6 +19,8 @@ tags: [java基础, javascript]
    (**基本数据类型**：byte, short, char, int, long, float, double, boolean)
 
 2. 复合数据类型（类）在比较时，"=="判断的是二者在内存中的地址是否相同，而"equals"方法判断的是二者的值是否相等。
+
+   <!-- more -->
 
 ```java
 //使用equals判等，以下均相同，用==判断的结果见表格
@@ -56,4 +60,4 @@ String str4=new String("hello");
 
 下面是一张令人震撼的真值表(ノ-_-)ノ~┻━┻
 
-![js判等真值表](E:\blog_files\img\js判等真值表.jpg)
+![js判等真值表](https://github.com/bigbag01/blogfiles/blob/master/img/js判等真值表.jpg?raw=true)
